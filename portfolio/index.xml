@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on 阿文 | 個人作品網站</title>
+    <link>https://examplesite.com/portfolio/</link>
+    <description>Recent content in Portfolio on 阿文 | 個人作品網站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>阿文的履歷 &amp;copy; 2022 </copyright>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>21點小遊戲</title>
+      <link>https://examplesite.com/portfolio/project-4/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-4/</guid>
+      <description>簡介： 使用JavaScript建立一個簡單的21點網頁小遊戲</description>
+    </item>
+    
+    <item>
+      <title>landing page</title>
+      <link>https://examplesite.com/portfolio/project-2/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-2/</guid>
+      <description>簡介： 咖啡店形象網站 , 使用 Bootstrap製作版型
+使用技術： 前端框架:Bootstrap CSS預處理器 : SCSS </description>
+    </item>
+    
+    <item>
+      <title>咖啡店形象網站</title>
+      <link>https://examplesite.com/portfolio/project-3/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-3/</guid>
+      <description>簡介： 咖啡店形象網站 , 使用 Bootstrap製作版型
+使用技術： 前端框架:Bootstrap CSS預處理器 : SCSS </description>
+    </item>
+    
+    <item>
+      <title>工廠形象網站</title>
+      <link>https://examplesite.com/portfolio/project-1/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-1/</guid>
+      <description>簡介： 咖啡店形象網站 , 使用 Bootstrap製作版型
+使用技術： 前端框架:Bootstrap CSS預處理器 : SCSS </description>
+    </item>
+    
+    <item>
+      <title>甜點電商網站</title>
+      <link>https://examplesite.com/portfolio/project-5/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-5/</guid>
+      <description>簡介： 咖啡店形象網站 , 使用 Bootstrap製作版型
+使用技術： 前端框架:Bootstrap CSS預處理器 : SCSS </description>
+    </item>
+    
+  </channel>
+</rss>

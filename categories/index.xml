@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 阿文 | 個人作品網站</title>
+    <link>https://examplesite.com/categories/</link>
+    <description>Recent content in Categories on 阿文 | 個人作品網站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>阿文的履歷 &amp;copy; 2022 </copyright>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootstrap</title>
+      <link>https://examplesite.com/categories/bootstrap/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://examplesite.com/categories/javascript/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>landing page</title>
+      <link>https://examplesite.com/categories/landing-page/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/landing-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCSS</title>
+      <link>https://examplesite.com/categories/scss/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/scss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
