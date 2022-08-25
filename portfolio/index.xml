@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>阿文的履歷 &amp;copy; 2022 </copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 May 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PHP簡單購物網</title>
+      <link>https://examplesite.com/portfolio/project-7/</link>
+      <pubDate>Thu, 12 May 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-7/</guid>
+      <description>簡介： 使用PHP製作一個簡單購物網
+使用技術： 後端語言:PHP</description>
+    </item>
+    
+    <item>
+      <title>PyGame小遊戲</title>
+      <link>https://examplesite.com/portfolio/project-6/</link>
+      <pubDate>Thu, 12 May 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-6/</guid>
+      <description>簡介： 使用PyGame製作一個小遊戲
+使用技術： 前端框架:Python</description>
+    </item>
+    
     <item>
       <title>21點小遊戲</title>
       <link>https://examplesite.com/portfolio/project-4/</link>
