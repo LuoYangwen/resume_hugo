@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHP on 阿文 | 個人作品網站</title>
+    <link>https://examplesite.com/categories/php/</link>
+    <description>Recent content in PHP on 阿文 | 個人作品網站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>阿文的履歷 &amp;copy; 2022 </copyright>
+    <lastBuildDate>Thu, 12 May 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/categories/php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PHP簡單購物網</title>
+      <link>https://examplesite.com/portfolio/project-7/</link>
+      <pubDate>Thu, 12 May 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-7/</guid>
+      <description>簡介： 使用PHP製作一個簡單購物網
+使用技術： 後端語言:PHP</description>
+    </item>
+    
+  </channel>
+</rss>
